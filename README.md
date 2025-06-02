@@ -119,3 +119,24 @@ C. Amazon EFS
 D. Amazon VPC
 
 # koalartht
+answers
+1.b
+2.a
+3.b
+4.c
+5.c
+6.c
+7.
+8.
+9.
+10.
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
